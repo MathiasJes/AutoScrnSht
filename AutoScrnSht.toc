@@ -1,0 +1,8 @@
+## Title: AutoScrnSht
+## Version: 0.1
+## Author: Yeyeftw
+## eMail: 
+## Interface: 11200
+## SavedVariablesPerCharacter: AutoScrnSht_Config
+## Notes: Automatically takes screenshot on level up.
+AutoScrnSht.xml
